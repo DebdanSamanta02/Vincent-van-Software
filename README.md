@@ -8,4 +8,4 @@ Also featured is a Spray-Paint feature, and a Save-As dialog box
 
 NOTE: due to custom scaling, Save-As and TextBoxes may not be optimized for all machines
 
-Credits+Author: Debdan Samanta, 13-07-2024; 19:11hrs
+Credits+Author: Debdan Samanta, 13-07-2024; 19:15hrs
